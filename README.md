@@ -34,7 +34,8 @@
 
   <h2>🚀 Открыт для сотрудничества и новых проектов!</h2>
   
-  <p>📩 Связаться со мной: <a href="mailto:your@email.com">your@email.com</a></p>
+  <p>📩 Связаться со мной: <a href="https://t.me/EVSouth">t.me/EVSouth</a></p>
+  <p><a href="https://t.me/EVSouth" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </section>
 
 ###
