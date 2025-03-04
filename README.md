@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 Обо мне</h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Технологии</h3>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h3 align="left">⛏ Инструменты:</h3>
+<h3 align="left">⛏ Инструменты</h3>
 
 ###
 
@@ -113,7 +113,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 Моя статистика</h3>
 
 ###
 
@@ -130,7 +130,7 @@
 
 ###
 
-<h3>Where to find me</h3>
+<h3>Связаться со мной</h3>
 
 <p><a href="https://t.me/EVSouth" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
 
