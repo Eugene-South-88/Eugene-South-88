@@ -56,7 +56,7 @@
 <h3 align="left">📕 Мои проекты</h3>
 
 - [TO-DO List](https://eugene-south-88.github.io/vue-todo-list/)
-- [Помощь подготовки к собеседованиям](https://eugene-south-88.github.io/check-questions-app/)
+- [Приложение помощи подготовки к собеседованиям](https://eugene-south-88.github.io/check-questions-app/)
 - 
 ###
 
