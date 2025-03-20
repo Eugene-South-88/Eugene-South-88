@@ -55,7 +55,7 @@
 ###
 <h3 align="left">📕 Мои проекты</h3>
 
-- [Выбор альбомов (затронуты почти все аспекты frontend)](https://eugene-south-88.github.io/bambit-test-task/)
+- [Моковый отчет по сделкам (затронуты почти все аспекты frontend, 3 http запроса в одну таблицу)](https://eugene-south-88.github.io/bambit-test-task/)
 - [TO-DO List](https://eugene-south-88.github.io/vue-todo-list/)
 - [Приложение помощи подготовки к собеседованиям](https://eugene-south-88.github.io/check-questions-app/)
 - 
