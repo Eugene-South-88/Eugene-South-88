@@ -34,7 +34,7 @@
 
   <h2>🚀 Открыт для сотрудничества и новых проектов!</h2>
   
-  <p>📩 Связаться со мной: <a href="https://t.me/EVSouth" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+  <p>📩 Связаться со мной: <a href="https://t.me/Eugene_South" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
 </section>
 
 ###
@@ -116,7 +116,7 @@
 
 <h3>Связаться со мной</h3>
 
-<p><a href="https://t.me/EVSouth" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
+<p><a href="https://t.me/Eugene_South" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a></p>
 
 ###
 
